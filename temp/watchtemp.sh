@@ -3,5 +3,5 @@
 sleep 2
 tput civis
 clear
-resize -s 1 25
+resize -s 3 16
 watch -t -n 1 /home/trekka/Documents/bash/temp/hwtemp.sh
